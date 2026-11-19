@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Abstract cyan and violet developer profile banner" width="100%" />
+<img src="profile-banner.svg" alt="Abstract cyan and violet developer profile banner" width="100%" />
 
 # Hi, I’m Rabea Shaban
 
